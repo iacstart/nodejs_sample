@@ -9,7 +9,7 @@ app.use(morgan('combined'))
 
 var port = 80,
     ip   = '0.0.0.0',
-    mongoHost = '172.31.88.190',
+    mongoHost = 'TOBEREPLACED',
     mongoPort = 27017,
     mongoDatabase = 'dpklausur';
   

@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iacstart/nodejs_sample"
+    "url": "https://github.com/iacgame/nodejs_sample"
   },
   "author": "Christian Schreiner <christian.schreiner@computacenter.com>",
   "license": "CC-BY-1.0",
   "bugs": {
-    "url": "https://github.com/iacstart/nodejs_sample/issues"
+    "url": "https://github.com/iacgame/nodejs_sample/issues"
   },
-  "homepage": "https://github.com/iacstart/nodejs_sample"
+  "homepage": "https://github.com/iacgame/nodejs_sample"
 }
